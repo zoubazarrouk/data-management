@@ -1,8 +1,9 @@
 # Data Management Project – Urban Mobility & City Activity Patterns (Milan)
 
 ## Team
-- Zaineb has done this Person A: API acquisition (Weather + BikeMi), database modeling, temporal integration
-- Oumaima has doen this Person B: Web scraping (MilanoToday events), events profiling, spatial integration + quality assessment
+- Zaineb 
+- Oumaima
+- Salma 
 
 ## Research Questions (RQs)
 1. How do weather conditions influence bike-sharing demand across different areas and time periods?
