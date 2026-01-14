@@ -11,7 +11,7 @@
 3. Which zones exhibit the most irregular usage patterns during weekends or holidays?
 
 ## Data Sources
-### 1) Events (Scraping) – MilanoToday (Person B)
+### 1) Events (Scraping) – MilanoToday 
 - Source: MilanoToday “Eventi a Milano”
 - Method: Web scraping (list pages + event detail pages)
 - Time window scraped: **2025-05-22 → 2025-12-22**
@@ -29,7 +29,7 @@ Known limitations:
 - Some events have missing category/location/address (site does not always provide them).
 - A small number of pages may return errors (timeouts/404); errors are logged.
 
-### 2) Weather (API) – Open-Meteo (Person A)
+### 2) Weather (API) – Open-Meteo 
 - Method: API calls (hourly/daily: temperature, precipitation, wind, humidity)
 - Files stored in: `Projet/data/raw/`
 
